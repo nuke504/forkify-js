@@ -37,5 +37,4 @@ Temporary Items
 node_modules
 dist
 .parcel-cache
-.png
 .prettierrc
